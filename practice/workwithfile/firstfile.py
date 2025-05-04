@@ -1,0 +1,1 @@
+f=open("sex.txt","w")
